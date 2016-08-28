@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<authorized 
+    xmlns:my="http://schemas.android.com/apk/res-auto"
+    my:authoirzed="com.yue_test.xml.sucessful"/>
